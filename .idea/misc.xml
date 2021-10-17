@@ -5,6 +5,10 @@
       <map>
         <entry key="..\:/Users/faray/Documents/Instagram/app/src/main/res/layout/activity_login.xml" value="0.21240942028985507" />
         <entry key="..\:/Users/faray/Documents/Instagram/app/src/main/res/layout/activity_main.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/faray/Documents/Instagram/app/src/main/res/layout/fragment_compose.xml" value="0.33" />
+        <entry key="..\:/Users/faray/Documents/Instagram/app/src/main/res/layout/fragment_posts.xml" value="0.24728260869565216" />
+        <entry key="..\:/Users/faray/Documents/Instagram/app/src/main/res/layout/item_post.xml" value="0.22604166666666667" />
+        <entry key="..\:/Users/faray/Documents/Instagram/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/faray/Documents/Instagram/app/src/main/res/xml/fileprovider.xml" value="0.1585144927536232" />
       </map>
     </option>
